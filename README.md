@@ -16,6 +16,7 @@ supports on Windows and Linux.
 - Can be used to afk at Spawners
 - Low resource usage
 - Commands like /bal, /shards work
+- It can be used for either Donutsmp or Hugosmp 
 
 ## How it works
 Windows: Start the Executable trough the terminal opened in the same directory like this: ./DonutAfk.
