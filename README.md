@@ -28,6 +28,5 @@ The server IP can be changed directly in the source code. After changing the IP,
 Before using DonutAfk make sure ur safe and have nothing important on you. 
 Any Questions can be asked directly trough my email or my Discord both are linked in my GitHub profil :D.
 
-My usage for this project will prob be that i will let some accounts run on a raspberry pi and let them farm some money to sell for IRL money :)
 
 Lg IceC
